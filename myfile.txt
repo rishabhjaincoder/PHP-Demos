@@ -1,0 +1,3 @@
+just a dummy file to illustrate how file works in php
+tut-34 files.php
+third line
